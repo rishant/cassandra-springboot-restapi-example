@@ -18,8 +18,9 @@ http://localhost:8080/swagger-ui.html
 | Apache Cassandra Introduction  | Cassandra Architecture & Behind the scenes | 
 | -------------                  | -------------                   | 
 | [![SC2 Video](https://img.youtube.com/vi/AgT_hopun-c/0.jpg)](https://www.youtube.com/watch?v=AgT_hopun-c&list=RDCMUC9xghV-TcBwGvK-aEMhpt5w&index=41)| [![SC2 Video](https://img.youtube.com/vi/1pOQFuIpawU/0.jpg)](https://www.youtube.com/watch?v=1pOQFuIpawU&list=RDCMUC9xghV-TcBwGvK-aEMhpt5w&index=20)|
-| | [![SC2 Video](https://img.youtube.com/vi/JEwkI0W-wAk/0.jpg)](https://www.youtube.com/watch?v=JEwkI0W-wAk) |
-| | [![SC2 Video](https://img.youtube.com/vi/ZuBl7kPBFSM/0.jpg)](https://www.youtube.com/watch?v=ZuBl7kPBFSM) |
+| [![SC2 Video](https://img.youtube.com/vi/S9rmf4X7E_E/0.jpg)](https://www.youtube.com/watch?v=S9rmf4X7E_E) | [![SC2 Video](https://img.youtube.com/vi/JEwkI0W-wAk/0.jpg)](https://www.youtube.com/watch?v=JEwkI0W-wAk) |
+| [![SC2 Video](https://img.youtube.com/vi/QA-owFLFNcQ/0.jpg)](https://www.youtube.com/watch?v=QA-owFLFNcQ&list=PLalrWAGybpB-L1PGA-NfFu2uiWHEsdscD&index=9) | [![SC2 Video](https://img.youtube.com/vi/ZuBl7kPBFSM/0.jpg)](https://www.youtube.com/watch?v=ZuBl7kPBFSM) |
+| [![SC2 Video](https://img.youtube.com/vi/VsQ4OuH-K1I/0.jpg)](https://www.youtube.com/watch?v=VsQ4OuH-K1I&list=PLsyeobzWxl7r0bn6dzVA8bQNxcx7DRl5F&index=6&t=632s)| |
 
 <br />
 <br />
@@ -32,13 +33,6 @@ http://localhost:8080/swagger-ui.html
 
 > Cassandra Internals and Choosing a Distribution: \
 [![SC2 Video](https://img.youtube.com/vi/uossfVwxWXk/0.jpg)](https://www.youtube.com/watch?v=uossfVwxWXk)
-
-<br />
-<br />
-
-> Cassandra Pratition Key & Cluster Key: \
-[![SC2 Video](https://img.youtube.com/vi/S9rmf4X7E_E/0.jpg)](https://www.youtube.com/watch?v=S9rmf4X7E_E)
-[![SC2 Video](https://img.youtube.com/vi/VsQ4OuH-K1I/0.jpg)](https://www.youtube.com/watch?v=VsQ4OuH-K1I&list=PLsyeobzWxl7r0bn6dzVA8bQNxcx7DRl5F&index=6&t=632s)
 
 <br />
 <br />
