@@ -18,6 +18,9 @@ https://dbschema.com/
 > Cassandra Write Architecture Practical \
 [![SC2 Video](https://img.youtube.com/vi/1pOQFuIpawU/0.jpg)](https://www.youtube.com/watch?v=1pOQFuIpawU&list=RDCMUC9xghV-TcBwGvK-aEMhpt5w&index=20)
 
+> Cassandra Pratition Key & Cluster Key: \
+[![SC2 Video](https://img.youtube.com/vi/S9rmf4X7E_E/0.jpg)](https://www.youtube.com/watch?v=S9rmf4X7E_E)
+
 > Cassandra Architecture: How Read and Write are Done: \
 [![SC2 Video](https://img.youtube.com/vi/JEwkI0W-wAk/0.jpg)](https://www.youtube.com/watch?v=JEwkI0W-wAk)
 
