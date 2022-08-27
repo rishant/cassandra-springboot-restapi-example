@@ -7,8 +7,8 @@ http://localhost:8080/swagger-ui.html
 
 | Upgrade cqlsh script for python3  | Open-source Cassandra GUI Tools | Apache Cassandra Installation & Multi Node Cluster Setup: | 
 | -------------                     | -------------                   | ------------------ | 
-| https://downloads.datastax.com/#cqlsh  | [![SC2 Video](https://img.youtube.com/vi/zCHe3V50kVs/0.jpg)](https://www.youtube.com/watch?v=zCHe3V50kVs) | [![SC2 Video](https://img.youtube.com/vi/Ty147JhU0hg/0.jpg)](https://www.youtube.com/watch?v=Ty147JhU0hg) |
-| ![IMG_PNG](https://github.com/rishant/cassandra-springboot-restapi-example/blob/main/cqlsh_changes.PNG) | https://dbschema.com/ | [![SC2 Video](https://img.youtube.com/vi/MceviB8j1mY/0.jpg)](https://www.youtube.com/watch?v=MceviB8j1mY&list=PLLa_h7BriLH1hYHxg9rq8w5Fq7dhbyKZb&index=7)|
+| https://downloads.datastax.com/#cqlsh | [![SC2 Video](https://img.youtube.com/vi/zCHe3V50kVs/0.jpg)](https://www.youtube.com/watch?v=zCHe3V50kVs) | [![SC2 Video](https://img.youtube.com/vi/Ty147JhU0hg/0.jpg)](https://www.youtube.com/watch?v=Ty147JhU0hg) |
+| ![IMG_PNG](https://github.com/rishant/cassandra-springboot-restapi-example/blob/main/cqlsh_changes.PNG) ![IMG_PNG](https://github.com/rishant/cassandra-springboot-restapi-example/blob/main/cqlsh_enable_color_code.PNG) | https://dbschema.com/ | [![SC2 Video](https://img.youtube.com/vi/MceviB8j1mY/0.jpg)](https://www.youtube.com/watch?v=MceviB8j1mY&list=PLLa_h7BriLH1hYHxg9rq8w5Fq7dhbyKZb&index=7)|
 
 <br />
 <br />
